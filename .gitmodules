@@ -1,0 +1,4 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = git@github.com:Trondheim-Studentspeidergruppe/gohugo-theme-ananke.git
+	branch = master

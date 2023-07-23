@@ -1,0 +1,46 @@
+baseURL = 'https://tssg.no/'
+defaultContentLanguage = 'no'
+theme = 'ananke'
+
+
+[languages]
+    [languages.no]
+        title = 'Trondheim Studentspeidergruppe'
+        weight = 1
+        [languages.no.params]
+            flag = "/img/no.svg"
+    [languages.en]
+        title = 'TSSG'
+        weight = 2
+        [languages.en.params]
+            flag = "/img/gb.svg"
+
+
+[params]
+disable_share = true
+favicon = "img/logo.svg"
+
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/studentspeider"
+
+[[params.ananke_socials]]
+name = "discord"
+url = "https://discord.gg/hFsm2v44ck"
+label = "Discord"
+color = "7289D7"
+
+[[params.ananke_socials]]
+name = "email"
+url = "mailto:styret@tssg.no"
+label = "Epost"
+color = "7289D7"
+
+[[params.ananke_socials]]
+name = "email-list"
+url = "https://groups.google.com/a/tssg.no/d/forum/tssg/join"
+label = "Epostliste"
+color = "7289D7"
+
+
