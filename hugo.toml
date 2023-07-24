@@ -1,6 +1,7 @@
 baseURL = 'https://tssg.no/'
 defaultContentLanguage = 'no'
 theme = 'ananke'
+pluralizelisttitles = "false"
 
 
 [languages]
@@ -19,6 +20,7 @@ theme = 'ananke'
 [params]
 disable_share = true
 favicon = "img/logo.svg"
+mainSections = "hendelser"
 
 
 [[params.ananke_socials]]

@@ -2,11 +2,13 @@
 title: "Duddelibu"
 date: 2023-07-01T16:18:03+02:00
 tags: []
-featured_image: ""
+featured_image: "/img/dbute.jpg"
 description: ""
 menu:
     main: {}
 ---
+
+Information about renting the cabin can be found [here]({{< ref "permanent/leiedb" >}} "Renting Duddelibu").
 
 Like a real scouting group, we've got our own cabin: our dear Duddelibu!
 Duddelibu is located on Selbuhøgda, some miles southeast of Trondheim.

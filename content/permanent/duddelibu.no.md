@@ -2,11 +2,13 @@
 title: "Duddelibu"
 date: 2023-07-01T16:18:00+02:00
 tags: []
-featured_image: ""
+featured_image: "/img/dbute.jpg"
 description: ""
 menu:
     main: {}
 ---
+
+Informasjon om leie av hytta finnes [her]({{< ref "permanent/leiedb" >}} "Leie Duddelibu").
 
 Som en ekte studentspeidergruppe, har vi en egen hytte, nemlig vår kjære Duddelibu, som ligger på Selbuhøgda noen mil sørøst for Trondheim.
 Hytta ble bygget av TSSGerne selv i 1964.

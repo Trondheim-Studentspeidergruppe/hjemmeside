@@ -2,10 +2,8 @@
 title: "Renting Duddelibu"
 date: 2023-07-23T10:02:39+02:00
 tags: []
-featured_image: ""
+featured_image: "/img/dbinne.jpg"
 description: ""
-menu:
-    main: {}
 ---
 
 Duddelibu is the cabin belonging to TSSG.
@@ -16,6 +14,8 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 * The woodfired fireplace serves as indoor heating
 * Drinking water can be fetched from the well.
 * The kitchen is gas fired and contains utensils,* pots, pans, bowls, cups, plates and other things.
+
+More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
 Do you want to rent Duddelibu? Contact the Kæbbinbåss by email: duddelibu@tssg.no
 Rental instructions in norwegian are available [here](/doc/utleieinstruks_2022_11_24.pdf).
@@ -77,4 +77,4 @@ Here's a list of useful things to pack for a trip to Duddelibu:
 
 ## Renting calendar for Duddelibu:
 "opptatt" means it's not available.
-TODO: Legg til kalender her.
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
