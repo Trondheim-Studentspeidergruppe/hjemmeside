@@ -12,4 +12,4 @@ menu:
 
 **Når:** Torsdag 27. juli 2023 18:00
 
-Vi møtes en gang for å gjøre noe.
+**Hva:** Vi møtes en gang for å gjøre noe.

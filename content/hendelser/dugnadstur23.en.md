@@ -1,5 +1,5 @@
 ---
-title: "Dugnadstur 2023"
+title: "Voluntary workcamp 2023"
 date: 2023-07-24T15:00:47+02:00
 tags: []
 featured_image: "/img/møter/utsikt.jpg"
@@ -12,4 +12,4 @@ menu:
 
 **When:** Friday 11. August to Sunday 13. August 2023
 
-We will go to Duddelibu to fix stuff.
+**What:** We will go to Duddelibu to fix stuff.

@@ -12,4 +12,4 @@ menu:
 
 **Når:** Julaften 2022
 
-Det ble aldri avholdt noe julekakespisemøte, men det kan fungere fint som eksempel likevel.
+**Hva:** Det ble aldri avholdt noe julekakespisemøte, men det kan fungere fint som eksempel likevel.

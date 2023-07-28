@@ -1,17 +1,17 @@
 baseURL = 'https://tssg.no/'
 defaultContentLanguage = 'no'
 theme = 'ananke'
+title = 'TSSG'
 pluralizelisttitles = "false"
 
 
 [languages]
     [languages.no]
-        title = 'Trondheim Studentspeidergruppe'
         weight = 1
         [languages.no.params]
             flag = "/img/no.svg"
+            date_format = "02.01.2006"
     [languages.en]
-        title = 'TSSG'
         weight = 2
         [languages.en.params]
             flag = "/img/gb.svg"
@@ -21,6 +21,8 @@ pluralizelisttitles = "false"
 disable_share = true
 favicon = "img/logo.svg"
 mainSections = "hendelser"
+cover_dimming_class = "bg-black-30"
+recent_posts_number = 5
 
 
 [[params.ananke_socials]]

@@ -20,8 +20,8 @@ Mer info om hytta finnes [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 Utleieinstruks finnes [her](/doc/utleieinstruks_2022_11_24.pdf).
 
 ## Leiepriser
-| Medlem (TSSG) | Medlem (speidergruppe) | Ikke medlem |
-|:--:|:--:|:--:|
+| | Medlem (TSSG) | Medlem (speidergruppe) | Ikke medlem |
+|:---|---:|---:|---:|
 | Per natt: | 0,- | 50,- | 75,- |
 | Minimum per helg: | 0,- | 600,- | 600,- |
 | Minimum per natt (ukedager): | 0,- | 300,- | 300,- |

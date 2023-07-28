@@ -18,11 +18,11 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
 Do you want to rent Duddelibu? Contact the Kæbbinbåss by email: duddelibu@tssg.no
-Rental instructions in norwegian are available [here](/doc/utleieinstruks_2022_11_24.pdf).
+Rental instructions in Norwegian are available [here](/doc/utleieinstruks_2022_11_24.pdf).
 
 ## Renting prices
-| Member (TSSG) | Member (scouting group) | Not member |
-|:--:|:--:|:--:|
+| | Member (TSSG) | Member (scouting group) | Not member |
+|:---|---:|---:|---:|
 | Per night: | 0,- | 50,- | 75,- |
 | Minimum per weekend: | 0,- | 600,- | 600,- |
 | Minimum per night (weekdays): | 0,- | 300,- | 300,- |
@@ -61,7 +61,7 @@ On school days there's a bus route from Hommelvik to Sneisen (about 8 km north o
 From Trondheim it's about 40 km by bicycle.
 It is possible to cycle from Hommelvik or via Jonsvannet and over to "Bakken".
 
-## Packingtips
+## Packing tips
 
 Here's a list of useful things to pack for a trip to Duddelibu:
 * Sleeping bag

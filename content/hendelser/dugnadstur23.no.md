@@ -2,7 +2,7 @@
 title: "Dugnadstur 2023"
 date: 2023-07-24T14:41:29+02:00
 tags: []
-featured_image: "/img/utsikt.jpg"
+featured_image: "/img/møter/utsikt.jpg"
 description: ""
 menu:
     event: {}
@@ -12,4 +12,4 @@ menu:
 
 **Når:** Fredag 11. august til søndag 13. august 2023
 
-Vi drar opp til Duddelibu for å fikse diverse, det hele koordineres på discord.
+**Hva:** Vi drar opp til Duddelibu for å fikse diverse, det hele koordineres på discord.
