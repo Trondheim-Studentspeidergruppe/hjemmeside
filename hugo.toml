@@ -1,4 +1,4 @@
-baseURL = 'https://tssg.no/'
+baseURL = 'https://www.tssg.no/'
 defaultContentLanguage = 'no'
 theme = 'ananke'
 title = 'TSSG'
