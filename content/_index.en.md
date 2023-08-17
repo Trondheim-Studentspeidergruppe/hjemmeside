@@ -21,9 +21,9 @@ The final form of the meetings are announced by Facebook, Discord or email when 
 
 ### Thursday meetings
 
-{{% include "/assets/terminlister/moeter/V23.en.md" %}}
+{{% include "/assets/terminlister/moeter/H23.en.md" %}}
 
 ### Weekend trips
 
 People also arrange spontaneous trips, so if you need more cabin in your life, join us and run into the forest!
-{{% include "/assets/terminlister/turer/V23.en.md" %}}
+{{% include "/assets/terminlister/turer/H23.en.md" %}}
