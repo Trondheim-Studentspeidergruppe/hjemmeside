@@ -14,7 +14,7 @@ Meetings and trips are announced on Facebook and usually we communicate by Disco
 We also have a cabin where we go on trips to and which it is possible to rent.
 More information about the cabin may be found on the links below.
 
-## What happens: Spring 2023
+## What happens: Fall 2023
 
 All out meetings happen on Thursdays and generally start at 18.00.
 The final form of the meetings are announced by Facebook, Discord or email when we're getting closer to the dates.
