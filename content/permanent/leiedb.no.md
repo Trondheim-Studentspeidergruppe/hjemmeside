@@ -18,7 +18,7 @@ Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av s
 Mer info om hytta finnes [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
 Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
-Utleieinstruks finnes [her](/doc/utleieinstruks_2023_10_29_no.pdf).
+Utleieinstruks finnes [her](/doc/utleieinstruks_2023_11_12_no.pdf).
 
 ## Leiepriser
 
