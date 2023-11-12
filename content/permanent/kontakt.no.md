@@ -14,3 +14,12 @@ menu:
 - [Discord](https://discord.gg/hFsm2v44ck)
 - [Epostliste](https://groups.google.com/a/tssg.no/d/forum/tssg/join)
 - [Epost til styret](mailto:styret@tssg.no)
+
+## Leie Duddelibu (hytten)
+
+- Se informasjon [her]({{< ref "permanent/leiedb" >}})
+- Send epost til [hytteschæfen](mailto:duddelibu@tssg.no)
+
+## Bli medlem
+
+- Se denne [siden]({{< ref "permanent/blimedlem" >}})

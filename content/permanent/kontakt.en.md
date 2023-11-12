@@ -14,3 +14,12 @@ menu:
 - [Discord](https://discord.gg/hFsm2v44ck)
 - [Email list](https://groups.google.com/a/tssg.no/d/forum/tssg/join)
 - [Email to the board](mailto:styret@tssg.no)
+
+## Rent Duddelibu (the cabin)
+
+- See information [here]({{< ref "permanent/leiedb" >}})
+- Send email to the [Kæbbinbåss](mailto:duddelibu@tssg.no)
+
+## Become a member
+
+- See this [page]({{< ref "permanent/blimedlem" >}})
