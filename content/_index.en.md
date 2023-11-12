@@ -12,7 +12,7 @@ Out meetings are open for anyone, so don't hesitate in contacting us.
 Meetings and trips are announced on Facebook and usually we communicate by Discord.
 
 We also have a cabin where we go on trips to and which it is possible to [rent]({{< ref "permanent/leiedb" >}}).
-More information about the cabin may be found on the links below.
+More information about the cabin may be found on the link on the menu on the top of the page.
 
 ## What happens: Fall 2023
 

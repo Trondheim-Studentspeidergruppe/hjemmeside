@@ -12,7 +12,7 @@ Møtene våre er åpne for dem som vil, så ikke vær redd for å ta kontakt.
 Møter og turer annonseres på Facebook og vi kommuniserer stort sett over Discord.
 
 Vi har også en hytte hvor vi drar på turer og som det er mulig å [leie]({{< ref "permanent/leiedb" >}}).
-Mer informasjon om hytten kan man finne ved linken under.
+Mer informasjon om hytten kan man finne på linken i menyen på toppen av siden.
 
 ## Terminliste høsten 2023
 
