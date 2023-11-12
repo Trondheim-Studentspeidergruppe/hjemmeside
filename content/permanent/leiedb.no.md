@@ -8,6 +8,7 @@ description: ""
 
 Duddelibu er hytta til Trondheim studentspeidergruppe.
 Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av studentgrupper, speidergrupper og andre organisasjoner.
+
 * På hytta er det 22 overnattingsplasser.
 * Det er ikke innlagt vann, men vi har solcellepanel til belysningen av hytta.
 * Vedovnen står for oppvarming.
@@ -16,18 +17,25 @@ Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av s
 
 Mer info om hytta finnes [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
-Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på epost: duddelibu@tssg.no
+Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
 Utleieinstruks finnes [her](/doc/utleieinstruks_2023_10_29_no.pdf).
 
 ## Leiepriser
+
 | | Medlem (TSSG) | Medlem (speidergruppe) | Ikke medlem |
 |:---|---:|---:|---:|
-| Per natt: | 0,- | 50,- | 75,- |
-| Minimum per helg: | 0,- | 600,- | 600,- |
-| Minimum per natt (ukedager): | 0,- | 300,- | 300,- |
+| Per natt: | 0,- | 75,- | 125,- |
+| Minimum per helg: | 0,- | 900,- | 1000,- |
+| Minimum per natt (ukedager): | 0,- | 450,- | 500,- |
 
-Leieprisen beregnes ut fra antall overnattinger på hytta. Eksempel: Ti ikke-medlemmer leier hytta for en helg (to overnattinger).
-Leieprisen blir da 10 (personer) x 2 (overnatting) x 75,- (pris ikke-medlem) = 1500,-.
+Leieprisen beregnes ut fra antall overnattinger på hytta.
+
+**Eksempel 1**: Ti ikke-medlemmer leier hytta for en helg (to overnattinger).
+Leieprisen blir da 10 (personer) x 2 (overnatting) x 125,- (pris ikke-medlem) = 2500,-.
+
+**Eksempel 2**: Tre ikke-medlemmer leier hytta for en helg (to overnattinger).
+Leieprisen blir da 3 (personer) x 2 (overnattinger) x 125,- (pris ikke-medlem) = 750,-
+Men, siden 750 er mindre enn 1000,-, blir leien 1000,-.
 
 Nøkkel fås utlevert av hytteschæfen i forkant av leieperioden.
 Den skal leveres tilbake umiddelbart etter endt tur sammen med underskrevet tilstandsrapport.
@@ -61,6 +69,7 @@ Det er mulig å sykle via Hommelvik eller via Jonsvannet og over til Bakken.
 ## Pakketips
 
 Her er en liste med ting som kan være praktiske å pakke med seg til Duddelibu:
+
 * Sovepose
 * Varme klær
 * Vanntette sko
@@ -72,5 +81,6 @@ Her er en liste med ting som kan være praktiske å pakke med seg til Duddelibu:
 * Mat og drikke (ellers duger helten ikke)
 * Værmelding fra Yr (sjekk Haukåtjenna som er rett ved Duddelibu)
 
-## Utleiekalender for Duddelibu:
+## Utleiekalender for Duddelibu
+
 {{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}

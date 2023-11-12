@@ -9,6 +9,7 @@ description: ""
 Duddelibu is the cabin belonging to TSSG.
 It's located at Selbuhøgda some miles southeast of Trondheim.
 The cabin can be rented by student groups, scouting groups and other organisations.
+
 * There are 22 sleeping spots.
 * We have solar panels which power indoor lighting.
 * The woodfired fireplace serves as indoor heating
@@ -17,19 +18,25 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 
 More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
-Do you want to rent Duddelibu? Contact the Kæbbinbåss by email: duddelibu@tssg.no
+Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).
 Rental instructions in English are available [here](/doc/utleieinstruks_2023_10_29_en.pdf).
 
 ## Renting prices
+
 | | Member (TSSG) | Member (scouting group) | Not member |
 |:---|---:|---:|---:|
-| Per night: | 0,- | 50,- | 75,- |
-| Minimum per weekend: | 0,- | 600,- | 600,- |
-| Minimum per night (weekdays): | 0,- | 300,- | 300,- |
+| Per night: | 0,- | 75,- | 125,- |
+| Minimum per weekend: | 0,- | 900,- | 1000,- |
+| Minimum per night (weekdays): | 0,- | 450,- | 500,- |
 
 The renting price is calculated based on the number of nights stayed on the cabin.
-Example: Ten non-members rent the cabin for a weekend (two nights).
+
+**Example 1**: Ten non-members rent the cabin for a weekend (two nights).
 The renting price is then 10 (persons) x 2 (nights) x 75,- (price per non-member) = 1500,-.
+
+**Example 2**: Three non-members rent the cabin for a weekend (two nights).
+The renting price is then 3 (persons) x 2 (nights) x 125,- (price per non-member) = 750,-.
+However, 750,- is less than 1000,-, and the final renting price is 1000,-.
 
 Keys can be obtained from the Kæbbinbåss before the renting period.
 It is to be returned immediately after the trip is completed accompanying a signed status report.
@@ -64,6 +71,7 @@ It is possible to cycle from Hommelvik or via Jonsvannet and over to "Bakken".
 ## Packing tips
 
 Here's a list of useful things to pack for a trip to Duddelibu:
+
 * Sleeping bag
 * Warm clothes
 * Waterproof shoes
@@ -75,6 +83,7 @@ Here's a list of useful things to pack for a trip to Duddelibu:
 * Food and drinks (would you like to starve?)
 * Weather forecast, possibly from Yr (check Haukåtjenna which is right by Duddelibu)
 
-## Renting calendar for Duddelibu:
+## Renting calendar for Duddelibu
+
 "opptatt" means it's not available.
 {{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
