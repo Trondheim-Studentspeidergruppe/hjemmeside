@@ -1,6 +1,6 @@
 ---
 title: "Become a member"
-date: 2023-07-01T16:16:29+02:00
+date: 2023-11-12T19:03:29+02:00
 tags: []
 featured_image: ""
 description: "How to become a member of the Trondheim Student Scouting Group"
@@ -10,7 +10,7 @@ menu:
 
 We're always looking for new members, our favorite motto is
 
-> The more the merrier!
+> The more, the merrier!
 
 If you want to join us for Thursday meetings and cabin trips in the weekends,
 you just have to let us know and show up.

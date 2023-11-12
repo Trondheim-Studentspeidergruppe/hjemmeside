@@ -1,6 +1,6 @@
 ---
 title: "Bli medlem"
-date: 2023-07-01T16:16:29+02:00
+date: 2023-11-12T19:03:29+02:00
 tags: []
 featured_image: ""
 description: "Hvordan bli medlem i Trondheim studentspeidergruppe"
@@ -22,6 +22,6 @@ medlemskontingent.
 - Den årlige medlemskontingenten er på 150,-
 - Enten kan du betale med Vipps til Vipps-nummeret: `562633`.
   - Eventuelt søk etter "TSSG".
-- Ellers kan du betale til via konto-overføring til kontonummer `4202 21 73000`.
+- Ellers kan du betale til ved overføring til kontonummer: `4202 21 73000`.
 
 Skulle sette være ubeleilig, ta kontakt med oss, så finner vi ut av noe.
