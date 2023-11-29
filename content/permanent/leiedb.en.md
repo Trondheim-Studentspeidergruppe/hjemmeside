@@ -19,7 +19,7 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
 Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).
-Rental instructions in English are available [here](/doc/utleieinstruks_2023_11_12_en.pdf).
+Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf).
 
 ## Renting prices
 
