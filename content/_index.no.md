@@ -14,7 +14,7 @@ Møter og turer annonseres på Facebook og vi kommuniserer stort sett over Disco
 Vi har også en hytte hvor vi drar på turer og som det er mulig å [leie]({{< ref "permanent/leiedb" >}}).
 Mer informasjon om hytten kan man finne på linken i menyen på toppen av siden.
 
-## Terminliste høsten 2023
+## Terminliste våren 2024
 
 Alle møtene våre er på torsdager og starter stort sett 18.00.
 Endelig innhold og form på møtet annonseres nærmere møtedato på facebook, discord og epost.
