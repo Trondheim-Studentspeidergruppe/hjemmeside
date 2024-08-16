@@ -21,9 +21,9 @@ Endelig innhold og form på møtet annonseres nærmere møtedato på facebook, d
 
 ### Torsdagsmøter
 
-{{% include "/assets/terminlister/moeter/V24.no.md" %}}
+{{% include "/assets/terminlister/moeter/H24.no.md" %}}
 
 ### Helgeturer
 
 Turer arrangeres også spontant av medlemmer, så hvis du trenger mer hytte i ditt liv, er det bare å bli med og dra på tur!
-{{% include "/assets/terminlister/turer/V24.no.md" %}}
+{{% include "/assets/terminlister/turer/H24.no.md" %}}
