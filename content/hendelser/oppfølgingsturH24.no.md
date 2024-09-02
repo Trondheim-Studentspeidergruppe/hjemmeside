@@ -1,6 +1,6 @@
 ---
-title: "Introtur høst 2024"
-date: 2024-09-06T14:23:45+02:00
+title: "Umiddelbar oppfølgingstur høst 2024"
+date: 2024-09-01T14:23:45+02:00
 tags: []
 featured_image: "/img/møter/utsikt.jpg"
 description: ""
