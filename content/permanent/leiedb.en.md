@@ -52,6 +52,6 @@ Here's a list of useful things to pack for a trip to Duddelibu if you're renting
 
 "opptatt" means it's not available.
 
-{{ < iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" > }}
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
 
-{{ < iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8@group.calendar.google.com&ctz=Europe/Oslo&csspa=1" > }}
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8@group.calendar.google.com&ctz=Europe/Oslo&csspa=1" >}}

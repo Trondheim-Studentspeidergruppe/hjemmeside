@@ -50,6 +50,6 @@ Her er en liste med ting som kan være praktiske å pakke med seg til Duddelibu 
 
 ## Utleiekalender for Duddelibu
 
-{{ < iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" > }}
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
 
-{{ < iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8@group.calendar.google.com&ctz=Europe/Oslo&csspa=1" > }}
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8@group.calendar.google.com&ctz=Europe/Oslo&csspa=1" >}}
