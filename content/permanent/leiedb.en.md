@@ -54,4 +54,4 @@ Here's a list of useful things to pack for a trip to Duddelibu if you're renting
 
 <!-- < iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" > -->
 
-< iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FOslo&showPrint=0&src=dHNzZy5ub19kY3Zxc2NzMjVra29yMDYxY3RtZzQxYzFmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F4511E" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no" >
+{{ < iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FOslo&showPrint=0&src=dHNzZy5ub19kY3Zxc2NzMjVra29yMDYxY3RtZzQxYzFmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F4511E" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no" > }}
