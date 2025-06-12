@@ -14,16 +14,16 @@ Meetings and trips are announced on Facebook and usually we communicate by Disco
 We also have a cabin where we go on trips to and which it is possible to [rent]({{< ref "permanent/leiedb" >}}).
 More information about the cabin may be found on the link on the menu on the top of the page.
 
-## What happens: Spring 2024
+## What happens: Spring 2025
 
 All of our meetings happen on Thursdays and generally start at 18.00.
 The final information about the meetings are announced by Facebook, Discord or email when we're getting closer to the dates.
 
 ### Thursday meetings
 
-{{% include "/assets/terminlister/moeter/H24.en.md" %}}
+{{% include "/assets/terminlister/moeter/V25.en.md" %}}
 
 ### Weekend trips
 
 People also arrange spontaneous trips, so if you need more cabin in your life, join us and run into the forest!
-{{% include "/assets/terminlister/turer/H24.en.md" %}}
+{{% include "/assets/terminlister/turer/V25.en.md" %}}

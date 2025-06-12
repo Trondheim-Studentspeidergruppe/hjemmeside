@@ -15,10 +15,9 @@ Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av s
 * Drikkevann hentes fra brønnen.
 * Kjøkkenet har gassbluss og alt av kjøkkenredskaper, gryter, boller, kopper, tallerkener, bestikk osv.
 
-Mer info om hytta finnes [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
-
-Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
-<!-- Utleieinstruks finnes [her](/doc/utleieinstruks_no.pdf). -->
+> Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
+> Mer info om hytta finner du [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
+<!-- > Utleieinstruks finnes [her](/doc/utleieinstruks_no.pdf), den inneholder blant annet en sjekkliste for utsjekk. -->
 
 ## Leiepriser
 
@@ -79,7 +78,7 @@ Det er mulig å sykle via Hommelvik eller via Jonsvannet og over til Bakken.
 
 ## Pakketips
 
-Her er en liste med ting som kan være praktiske å pakke med seg til Duddelibu:
+Her er en liste med ting som kan være praktiske å pakke med seg til Duddelibu dersom du leier:
 
 * Sovepose
 * Varme klær
