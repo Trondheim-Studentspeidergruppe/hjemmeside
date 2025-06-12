@@ -6,6 +6,10 @@ featured_image: "/img/dbinne.jpg"
 description: ""
 ---
 
+> Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
+> Mer info om hytta finner du [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
+<!-- > Utleieinstruks finnes [her](/doc/utleieinstruks_no.pdf), den inneholder blant annet en sjekkliste for utsjekk. -->
+
 Duddelibu er hytta til Trondheim studentspeidergruppe.
 Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av studentgrupper, speidergrupper og andre organisasjoner.
 
@@ -14,10 +18,6 @@ Den ligger på Selbuhøgda noen mil sørøst for Trondheim. Hytta kan leies av s
 * Vedovnen står for oppvarming.
 * Drikkevann hentes fra brønnen.
 * Kjøkkenet har gassbluss og alt av kjøkkenredskaper, gryter, boller, kopper, tallerkener, bestikk osv.
-
-> Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).
-> Mer info om hytta finner du [her]({{< ref "permanent/duddelibu" >}} "Duddelibu").
-<!-- > Utleieinstruks finnes [her](/doc/utleieinstruks_no.pdf), den inneholder blant annet en sjekkliste for utsjekk. -->
 
 ## Leiepriser
 

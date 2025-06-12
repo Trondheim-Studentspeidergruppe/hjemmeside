@@ -6,6 +6,10 @@ featured_image: "/img/dbinne.jpg"
 description: ""
 ---
 
+> Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).
+> More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
+<!-- > Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf). -->
+
 Duddelibu is the cabin belonging to TSSG.
 It's located at Selbuhøgda some miles southeast of Trondheim.
 The cabin can be rented by student groups, scouting groups and other organisations.
@@ -15,10 +19,6 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 * The woodfired fireplace serves as indoor heating
 * Drinking water can be fetched from the well.
 * The kitchen is gas fired and contains utensils,* pots, pans, bowls, cups, plates and other things.
-
-> Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).
-> More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
-<!-- > Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf). -->
 
 ## Renting prices
 
