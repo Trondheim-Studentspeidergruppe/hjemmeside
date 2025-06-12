@@ -1,6 +1,6 @@
 ---
 title: "Renting Duddelibu"
-date: 2023-07-23T10:02:39+02:00
+date: 2025-06-12T19:41:36+02:00
 tags: []
 featured_image: "/img/dbinne.jpg"
 description: ""
@@ -19,7 +19,7 @@ The cabin can be rented by student groups, scouting groups and other organisatio
 More information about the cabin can be found [here]({{< ref "permanent/duddelibu" >}} "Duddelibu").
 
 Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).
-Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf).
+<!-- Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf). -->
 
 ## Renting prices
 
@@ -31,10 +31,15 @@ Rental instructions in English are available [here](/doc/utleieinstruks_en.pdf).
 
 The renting price is calculated based on the number of nights stayed on the cabin.
 
-**Example 1**: Ten non-members rent the cabin for a weekend (two nights).
+Payment is done either via Vipps or invoice.
+Number for Vipps is: 557359 (Duddelibu, TSSG), and payment should be sent within a week after the end of the stay.
+Invoice should be paid within two weeks after it has been sent.
+Mark the payment with name of the renter and the renting period, this goes for both Vipps and invoice.
+
+**Price example 1**: Ten non-members rent the cabin for a weekend (two nights).
 The renting price is then 10 (persons) x 2 (nights) x 75,- (price per non-member) = 1500,-.
 
-**Example 2**: Three non-members rent the cabin for a weekend (two nights).
+**Price example 2**: Three non-members rent the cabin for a weekend (two nights).
 The renting price is then 3 (persons) x 2 (nights) x 125,- (price per non-member) = 750,-.
 However, 750,- is less than 1000,-, and the final renting price is 1000,-.
 
@@ -43,6 +48,13 @@ It is to be returned immediately after the trip is completed accompanying a sign
 
 If something is missing or broken before departure, tell the Kæbbinbåss.
 Rentees are primarily responsible for replacing and compensating, but this will be directly discussed in each case.
+
+## Renting calendar for Duddelibu
+
+> Sometimes, the calendar is not up to date.
+> Also, "opptatt" means it's not available.
+
+{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
 
 ## Where's the cabin?
 
@@ -83,7 +95,87 @@ Here's a list of useful things to pack for a trip to Duddelibu:
 * Food and drinks (would you like to starve?)
 * Weather forecast, possibly from Yr (check Haukåtjenna which is right by Duddelibu)
 
-## Renting calendar for Duddelibu
 
-"opptatt" means it's not available.
-{{< iframe "https://calendar.google.com/calendar/embed?src=tssg.no_dcvqscs25kkor061ctmg41c1f8%40group.calendar.google.com&ctz=Europe%2FBerlin" >}}
+## Practical information
+
+> Kæbbinbåss (cabin chief): Bjørnar Kaarevik
+> (Contact: 473 76 240, bjornar@tssg.no)
+> Cabin coordinates: 63° 16.958’ N, 10° 54.283’ E
+
+**Heating:**
+We have a nice soapstone oven for heating.
+Fire carefully the first half hour to let the oven heat up slowly.
+Do not overfill it with wood.
+It takes a long time to fully heat the oven up, but this means it also keeps warm for longer.
+Use dry firewood from the storage inside. Ash may be disposed of behind the privy.
+
+**Gas and lighting:**
+We have generation of electricity by solar panels, and most of the cabin should have electric lights.
+The power is turned on by pressing the button labeled ”Hovedbryter AV/PÅ”on the regulator in the attic.
+This button is the main breaker.
+If arrows are pointing from the battery to the light bulb on the display, the power is on.
+Please conserve electricity as much as possible and turn off lights that are not needed.
+There is gas for the gas fired stove in the tool shed which must be connected on arrival.
+Remember to turn off and disconnect the gas before departure!
+In the annex, oil lamps or temporary lighting must be used.
+Kerosene for the lamps can be found in a small white or big red container in the tool shed.
+
+**Drinking water:**
+We have a well with drinking water some tens of meters from the cabin, in the facing direction when standing in the doorway out.
+Use the metal buckets placed by the oven.
+(There are only for drinking water.)
+The well freezes during winter, but this is solved by cracking the ice on top.
+The well house must sometimes be dug out of the snow.
+
+**Food:**
+Spices and sugar in the kitchen may be used at your leisure.
+Do not use any other food in the cabin.
+Tea and coffee kettles are marked with labels.
+Do not leave any food in the cabin.
+The top cupboard in the shed is mouse tight.
+Hang all food which does not fit in the cupboard up above ground so the mice cannot reach it.
+
+**Beds and indoors:**
+shoes You must bring sleeping bags or something equivalent.
+The cabin has mattresses and pillows.
+Slippers are highly recommended.
+
+**Bonfires:**
+Bonfires may only be lit in the approved location behind the cabin.
+You may only light bonfires with your own firewood.
+If bonfires are lit with firewood from the cabin, or in other places then the approved location, a 2000 kr fine will incur.
+
+**Privy and water-letting:**
+The privy is located downhill from the cabin.
+Those with sufficient plumbing can make use of the well signposted secondary area when nature calls only lightly.
+
+**Sauna and Spa:**
+The sauna is wood fired, so be careful.
+A clever trick is to place a big pot of water on the oven in the sauna so you can use the water for cleaning later.
+Do not bring plastic buckets or other things prone to melting into the sauna.
+The Spa (Kurbadet) is in the bog behind the cabin.
+Remember to place the lid back on after using the Spa.
+
+**Tables:**
+The tables can be joined together forming a long table.
+If there is no bench under the window, there is an extra bench plate in the attic.
+The smallest table can be raised so it is as tall as the dining table.
+
+**Kitchen towels:**
+These can be found in the rightmost drawer in the kitchen.
+Dirty towels must be taken back home, cleaned and returned to the Kæbbinbåss together with the keys after the trip.
+
+**Fire alarm:**
+There is a fire alarm on the roof in the attic.
+Check that the batteries are slotted in and that they work.
+
+**Waste:**
+Waste can be disposed of in some containers off the main road.
+Drive further away from Hommelvik (turn right out of the parking lot) and take the first turn to the left, up a hill.
+Alternatively, they may be brought back to the city.
+
+**Notice!:**
+Duddelibu is a privately owned cabin, not a Koie.
+We hope you remember this when the party goes on deep into the night...
+When you leave, the cabin should look as it did when you arrived.
+Broken items must be replaces and extra clean up after the stay will incur extra costs on the renter (500 kr per started hour).
