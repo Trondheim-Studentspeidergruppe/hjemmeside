@@ -26,6 +26,7 @@ The final information about the meetings are announced by Facebook, Discord or e
 ### Weekend trips
 
 People also arrange spontaneous trips, so if you need more cabin in your life, join us and run into the forest!
+
 {{% include "/assets/terminlister/turer/H25.en.md" %}}
 
 #### More trips to come
