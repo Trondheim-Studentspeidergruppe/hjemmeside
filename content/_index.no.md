@@ -28,6 +28,3 @@ Endelig innhold og form på møtet annonseres nærmere møtedato på facebook, d
 Turer arrangeres også spontant av medlemmer, så hvis du trenger mer hytte i ditt liv, er det bare å bli med og dra på tur!
 
 {{% include "/assets/terminlister/turer/H25.no.md" %}}
-
-#### Flere turer kommer
-<!-- TODO fjærne-->
