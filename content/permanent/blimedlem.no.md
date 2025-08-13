@@ -5,7 +5,8 @@ tags: []
 featured_image: ""
 description: "Hvordan bli medlem i Trondheim studentspeidergruppe"
 menu:
-    main: {}
+    main:
+        weight: 10
 ---
 
 Vi ser alltid etter nye medlemmer, vårt yndlingsslagord er
@@ -24,4 +25,4 @@ medlemskontingent.
   - Eventuelt søk etter "TSSG".
 - Ellers kan du betale til ved overføring til kontonummer: `4202 21 73000`.
 
-Skulle sette være ubeleilig, ta kontakt med oss, så finner vi ut av noe.
+Skulle dette være ubeleilig, ta kontakt med oss, så finner vi ut av noe.

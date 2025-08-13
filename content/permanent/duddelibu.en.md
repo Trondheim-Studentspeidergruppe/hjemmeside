@@ -5,7 +5,8 @@ tags: []
 featured_image: "/img/dbute.jpg"
 description: ""
 menu:
-    main: {}
+    main:
+        weight: 20
 ---
 
 > Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).

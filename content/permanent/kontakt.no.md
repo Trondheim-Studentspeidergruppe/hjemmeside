@@ -5,7 +5,8 @@ tags: []
 featured_image: ""
 description: "Hvordan komme i kontakt med oss"
 menu:
-    main: {}
+    main:
+        weight: 40
 ---
 
 ## Nå oss på

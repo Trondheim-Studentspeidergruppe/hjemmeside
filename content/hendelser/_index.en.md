@@ -4,8 +4,8 @@ date: 2023-07-24T15:14:12+02:00
 tags: []
 featured_image: "/img/møter/trebilde.jpg"
 description: ""
-menu:
-    main: {}
+# menu:
+#     main: {}
 ---
 
 ## Thursday meetings

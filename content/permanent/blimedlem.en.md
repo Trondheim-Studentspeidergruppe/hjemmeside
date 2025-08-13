@@ -5,7 +5,8 @@ tags: []
 featured_image: ""
 description: "How to become a member of the Trondheim Student Scouting Group"
 menu:
-    main: {}
+    main:
+        weight: 10
 ---
 
 We're always looking for new members, our favorite motto is

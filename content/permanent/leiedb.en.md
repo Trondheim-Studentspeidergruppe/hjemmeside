@@ -4,6 +4,9 @@ date: 2025-06-12T19:41:36+02:00
 tags: []
 featured_image: "/img/dbinne.jpg"
 description: ""
+menu:
+    main:
+        weight: 30
 ---
 
 > Do you want to rent Duddelibu? Contact the Kæbbinbåss by [email](mailto:duddelibu@tssg.no).

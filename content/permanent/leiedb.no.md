@@ -4,6 +4,9 @@ date: 2025-06-12T19:41:36+02:00
 tags: []
 featured_image: "/img/dbinne.jpg"
 description: ""
+menu:
+    main:
+        weight: 30
 ---
 
 > Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).

@@ -5,7 +5,8 @@ tags: []
 featured_image: "/img/dbute.jpg"
 description: ""
 menu:
-    main: {}
+    main:
+        weight: 20
 ---
 
 > Ønsker du leie Duddelibu? Ta kontakt med hytteschæfen på [epost](mailto:duddelibu@tssg.no).

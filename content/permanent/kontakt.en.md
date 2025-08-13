@@ -5,7 +5,8 @@ tags: []
 featured_image: ""
 description: "How to reach us"
 menu:
-    main: {}
+    main:
+        weight: 40
 ---
 
 ## Reach us on

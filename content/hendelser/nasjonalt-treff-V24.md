@@ -9,6 +9,9 @@ menu:
 ---
 
 **Hvor:** NSF-hytta “Stykket” ved Lian i Trondheim.
+
 **Når:** Fredag 26. april til søndag 28. april 2024
+
 **Hva:** Tur, foredrag, leirbål, brettspill og quiz! Og det å treffe studerende speidere fra hele landet.
+
 **Mer info:** [Arrangement på KMspeider sine sider](https://kmspeider.no/arrangementer/nasjonalt-studentspeidertreff-article24273-810.html)

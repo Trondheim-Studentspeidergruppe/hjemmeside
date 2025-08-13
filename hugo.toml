@@ -23,6 +23,7 @@ favicon = "img/logo.svg"
 mainSections = "hendelser"
 cover_dimming_class = "bg-black-30"
 recent_posts_number = 5
+ananke.show_recent_posts = false
 
 
 [[params.ananke_socials]]
@@ -46,5 +47,3 @@ name = "email-list"
 url = "https://groups.google.com/a/tssg.no/d/forum/tssg/join"
 label = "Epostliste"
 color = "7289D7"
-
-
