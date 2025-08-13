@@ -24,3 +24,8 @@ menu:
 ## Bli medlem
 
 - Se denne [siden]({{< ref "permanent/blimedlem" >}})
+
+## Teknisk dokumentasjon og spørsmål
+
+- For spørsmål og feilmeldinger, kontakt styret på [epost](mailto:styret@tssg.no)
+- Teknisk dokumentasjon finnes [her]({{< ref "permanent/teknisk" >}})

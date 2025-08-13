@@ -1,49 +1,74 @@
+# Site Configuration
 baseURL = 'https://www.tssg.no/'
-defaultContentLanguage = 'no'
-theme = 'ananke'
 title = 'TSSG'
+theme = 'ananke'
+defaultContentLanguage = 'no'
 pluralizelisttitles = "false"
 
-
+# Language Configuration
 [languages]
     [languages.no]
         weight = 1
         [languages.no.params]
             flag = "/img/no.svg"
             date_format = "02.01.2006"
+    
     [languages.en]
         weight = 2
         [languages.en.params]
             flag = "/img/gb.svg"
 
-
+# Global Parameters
 [params]
-disable_share = true
-favicon = "img/logo.svg"
-mainSections = "hendelser"
-cover_dimming_class = "bg-black-30"
-recent_posts_number = 5
-ananke.show_recent_posts = false
+    disable_share = true
+    favicon = "img/logo.svg"
+    mainSections = "hendelser"
+    cover_dimming_class = "bg-black-30"
+    recent_posts_number = 5
+    ananke.show_recent_posts = false
 
+# Norwegian Social Links
+[[languages.no.params.ananke_socials]]
+    name = "facebook"
+    url = "https://www.facebook.com/studentspeider"
 
-[[params.ananke_socials]]
-name = "facebook"
-url = "https://www.facebook.com/studentspeider"
+[[languages.no.params.ananke_socials]]
+    name = "discord"
+    url = "https://discord.gg/hFsm2v44ck"
+    label = "Discord"
+    color = "7289D7"
 
-[[params.ananke_socials]]
-name = "discord"
-url = "https://discord.gg/hFsm2v44ck"
-label = "Discord"
-color = "7289D7"
+[[languages.no.params.ananke_socials]]
+    name = "email"
+    url = "mailto:styret@tssg.no"
+    label = "Epost"
+    color = "7289D7"
 
-[[params.ananke_socials]]
-name = "email"
-url = "mailto:styret@tssg.no"
-label = "Epost"
-color = "7289D7"
+[[languages.no.params.ananke_socials]]
+    name = "email-list"
+    url = "https://groups.google.com/a/tssg.no/d/forum/tssg/join"
+    label = "Epostliste"
+    color = "7289D7"
 
-[[params.ananke_socials]]
-name = "email-list"
-url = "https://groups.google.com/a/tssg.no/d/forum/tssg/join"
-label = "Epostliste"
-color = "7289D7"
+# English Social Links
+[[languages.en.params.ananke_socials]]
+    name = "facebook"
+    url = "https://www.facebook.com/studentspeider"
+
+[[languages.en.params.ananke_socials]]
+    name = "discord"
+    url = "https://discord.gg/hFsm2v44ck"
+    label = "Discord"
+    color = "7289D7"
+
+[[languages.en.params.ananke_socials]]
+    name = "email"
+    url = "mailto:styret@tssg.no"
+    label = "Email"
+    color = "7289D7"
+
+[[languages.en.params.ananke_socials]]
+    name = "email-list"
+    url = "https://groups.google.com/a/tssg.no/d/forum/tssg/join"
+    label = "Email list"
+    color = "7289D7"

@@ -24,3 +24,8 @@ menu:
 ## Become a member
 
 - See this [page]({{< ref "permanent/blimedlem" >}})
+
+## Technical documentation and questions
+
+- For questions and bug reports, contact the board by [email](mailto:styret@tssg.no)
+- The technical documentaiton is only available in Norwegian
